@@ -22,5 +22,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+* Signing in and posting 
 
-<img src="http://g.recordit.co/XhBiP0FOSG.gif" width=250><br>
+<img src="http://g.recordit.co/aRULj9qXOc.gif" width=250><br>
+
+* Signing up
+<img src="http://g.recordit.co/wsS7XMiRLn.gif" width=250><br>
