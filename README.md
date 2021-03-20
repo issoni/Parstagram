@@ -26,5 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://g.recordit.co/aRULj9qXOc.gif" width=250><br>
 
+
 * Signing up
+
 <img src="http://g.recordit.co/wsS7XMiRLn.gif" width=250><br>
